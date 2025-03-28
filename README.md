@@ -2,6 +2,8 @@
 
 Este projeto implementa um jogo de **Blackjack** completo utilizando **JavaScript**, **HTML** e **CSS**. O jogo permite que o jogador interaja com a interface para jogar contra o dealer e utilize ações como **Hit**, **Stand**, **Double Down**, **Split** e **Seguro**. Além disso, inclui a verificação de vencedor e a manipulação do saldo de apostas.
 
+Eu sou um grande fã de Blackjack, sempre me atraindo pela combinação de sorte, habilidade e estratégia que o jogo exige. A ideia de criar esse jogo surgiu do meu interesse por programação e pela paixão que tenho por esse clássico dos cassinos. A intenção foi proporcionar uma experiência divertida e desafiadora, trazendo as emoções de um jogo real de Blackjack para o ambiente online.
+
 ## Funcionalidades
 
 - **Aposta**: O jogador pode definir o valor da aposta antes de começar o jogo.
