@@ -23,8 +23,16 @@ Este projeto implementa um jogo de **Blackjack** completo utilizando **JavaScrip
 3. **Resultado**: Após o término da rodada, o resultado será exibido e o saldo será ajustado.
 4. **Reinício**: Se perder todo o saldo, um botão para reiniciar o jogo será mostrado.
 
-## Como Rodar o Jogo
+## Melhorias 
+Melhorias Sugeridas:
+Adicionar som: Implemente efeitos sonoros para ações como "Hit", "Stand" e "Vitória/Derrota" para uma experiência mais imersiva.
 
-1. Clone o repositório para sua máquina local:
-   ```bash
-   git clone https://github.com/seu-usuario/blackjack-completo.git
+Melhorar a interface visual: Use animações para as cartas sendo distribuídas ou para mostrar os resultados (ganho, perda, empate).
+
+Histórico de partidas: Adicione um sistema de histórico para o jogador acompanhar suas vitórias e derrotas.
+
+Personalização do jogador: Permita que o jogador altere o nome e a aparência de sua mão (exemplo: mudar o fundo ou o design das cartas).
+
+Desafios diários: Crie missões ou desafios diários para engajar o jogador e recompensá-lo com bônus ou modificações no jogo.
+
+Localização do dealer: Mude a posição das cartas do dealer para criar um layout mais dinâmico e visualmente interessante.
