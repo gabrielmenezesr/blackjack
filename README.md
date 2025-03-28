@@ -38,3 +38,5 @@ Personalização do jogador: Permita que o jogador altere o nome e a aparência 
 Desafios diários: Crie missões ou desafios diários para engajar o jogador e recompensá-lo com bônus ou modificações no jogo.
 
 Localização do dealer: Mude a posição das cartas do dealer para criar um layout mais dinâmico e visualmente interessante.
+
+Preciso adicionar ainda todas as regras que existe em um blackjack. 
